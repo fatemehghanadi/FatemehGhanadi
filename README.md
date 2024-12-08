@@ -12,7 +12,7 @@ I’m an AI researcher specializing in time-series and image analysis, with expe
 💡 Interests
 
 Artificial Intelligence & Machine Learning
-Time-Series Analysis (fMRI, etc.)
+Time-Series Analysis (BOLD siganal)
 Medical Imaging (fMRI, sMRI, X-ray analysis)
 Advanced AI Models (CNNs, RNNs, Transformers, GNNs)
 
