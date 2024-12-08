@@ -12,23 +12,21 @@ I’m an AI researcher specializing in time-series and image analysis, with expe
 💡 Interests
 
 Artificial Intelligence & Machine Learning
-Time-Series Analysis (fMRI, load forecasting, etc.)
+Time-Series Analysis (fMRI, etc.)
 Medical Imaging (fMRI, sMRI, X-ray analysis)
 Advanced AI Models (CNNs, RNNs, Transformers, GNNs)
 
 
 🔭 Recent Projects
 
-Published research on Autism Spectrum Disorder (ASD) classification using GNNs.
+Published research on Autism Spectrum Disorder (ASD) classification using GNNs and ML.
 Master's thesis on fMRI-based ASD detection leveraging Tangent Pearson Embedding and advanced classifiers.
-Explored 3D CNN models for Alzheimer's diagnosis from MRI data.
+Explored 3D CNN models for Alzheimer's diagnosis from MRI data as Bachelor's thesis.
 
 
 🌱 Current Goals
 
-Advancing research in uncertainty-aware load forecasting.
-Building expertise in backend, frontend, and Android development.
-
+Advancing research in Computational Neuroscience and Image Processing.
 
 📫 Let’s Connect
 I’m always open to collaboration on AI, healthcare, and tech-based projects. Feel free to reach out!
