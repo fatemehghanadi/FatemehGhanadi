@@ -29,10 +29,6 @@ Master's thesis on fMRI-based ASD detection leveraging Tangent Pearson Embedding
 Explored 3D CNN models for Alzheimer's diagnosis from MRI data as Bachelor's thesis.
 
 
-🌱 Current Goals
-
-Advancing research in Computational Neuroscience and Image Processing.
-
 📫 Let’s Connect
 I’m always open to collaboration on AI, healthcare, and tech-based projects. Feel free to reach out!
 
