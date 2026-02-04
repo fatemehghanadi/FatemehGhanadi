@@ -15,7 +15,7 @@ Artificial Intelligence & Machine Learning
 
 Large Language Models and Generative AI
 
-Time-Series Analysis (BOLD signal)
+Time-Series Analysis 
 
 Medical Imaging (fMRI, sMRI, X-ray analysis)
 
