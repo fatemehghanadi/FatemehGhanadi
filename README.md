@@ -6,7 +6,7 @@
 
 👩‍💻 About Me
 
-I’m an AI researcher working at the intersection of machine learning, medical imaging, time-series analysis, and Large Language Models (LLMs).
+I’m an AI researcher working at the intersection of machine learning, image and signal processing, time-series analysis, and Large Language Models (LLMs).
 
 💡 Interests
 
