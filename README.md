@@ -6,8 +6,7 @@
 
 👩‍💻 About Me
 
-I’m an AI researcher specializing in time-series and image analysis, with expertise in developing models for medical imaging and graph-based machine learning. My work spans CNNs, RNN-based models, Transformers, and Graph Neural Networks (GNNs), with research published in renowned journals and conferences.
-
+I’m an AI researcher working at the intersection of machine learning, medical imaging, time-series analysis, and Large Language Models (LLMs).
 
 💡 Interests
 
