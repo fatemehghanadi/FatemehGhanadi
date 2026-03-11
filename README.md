@@ -22,13 +22,6 @@ Medical Imaging (fMRI, sMRI, X-ray analysis)
 Advanced AI Models (CNNs, RNNs, Transformers, GNNs)
 
 
-🔭 Recent Projects
-
-Published research on Autism Spectrum Disorder (ASD) classification using GNNs and ML.
-
-Master's thesis on fMRI-based ASD detection leveraging Tangent Pearson Embedding and advanced classifiers.
-
-Explored 3D CNN models for Alzheimer's diagnosis from MRI data as Bachelor's thesis.
 
 
 📫 Let’s Connect
